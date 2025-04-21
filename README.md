@@ -1,2 +1,2 @@
-# quiz-pergnu
+# quiz-pergunu
 Go To Quiz Pergunu
